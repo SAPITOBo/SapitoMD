@@ -1,7 +1,7 @@
 # `🧿 SAPITO - 𝙱𝚘𝚝 🔮`
 
 ### `—◉ 👑 NUMERO OFICIAL DEL BOT 👑`
-<a href="http://wa.me/595983186566=texhola" target="blank"><img src="https://img.shields.io/badge/BOt-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595983186566text=hola" target="blank"><img src="https://img.shields.io/badge/BOt-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.
