@@ -3,8 +3,7 @@
 ### `—◉ 👑 NUMERO OFICIAL DEL BOT 👑`
 <a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BOt-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.
+
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
